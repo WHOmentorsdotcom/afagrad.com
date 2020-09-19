@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["am Rauhmel Fox.", "am an AFA™ GRAD.", "was judged worthy.", "exhibit exemplary conduct.", "am a Reputable Individual.", "defend rights."],
+      strings: ["am Rauhmel Fox.", "am an AFA™ GRAD.", "was judged worthy.", "exhibit exemplary conduct.", "am a Reputable Individual.", "defend rights.", "promote pride in the country.", "inculcate patriotic emotions."],
       typeSpeed: 100,
       loop: true,
     });
